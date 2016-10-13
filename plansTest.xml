@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <status>1</status>
+  <result>
+    <ROWSET>
+      <ROW>
+        <PLAN_ID>198</PLAN_ID>
+        <PLAN_NAME>ip-договор(кредитный) не используется</PLAN_NAME>
+        <PLAN_GROUP_ID>4</PLAN_GROUP_ID>
+        <ACTIVE_FROM>01-JAN-05</ACTIVE_FROM>
+        <ACTIVE_TO/>
+        <COMPANY_ID/>
+      </ROW>
+      <ROW>
+        <PLAN_ID>212</PLAN_ID>
+        <PLAN_NAME>dialup кредитный, 1 час стоит 24 руб. без ндс (с доп. услугами)</PLAN_NAME>
+        <PLAN_GROUP_ID>6</PLAN_GROUP_ID>
+        <ACTIVE_FROM>01-JAN-05</ACTIVE_FROM>
+        <ACTIVE_TO/>
+        <COMPANY_ID/>
+      </ROW>
+      <ROW>
+        <PLAN_ID>515</PLAN_ID>
+        <PLAN_NAME>выделенка - план для клиента ип ившин - внутрисетевой трафик совмещен с внутренним. июнь 2005.</PLAN_NAME>
+        <PLAN_GROUP_ID>7</PLAN_GROUP_ID>
+        <ACTIVE_FROM>01-JAN-05</ACTIVE_FROM>
+        <ACTIVE_TO>18-AUG-11</ACTIVE_TO>
+        <COMPANY_ID/>
+      </ROW>
+      <ROW>
+        <PLAN_ID>665</PLAN_ID>
+        <PLAN_NAME>Выделенка - на 1 месяц работы &quot;для Ремедиум&quot;</PLAN_NAME>
+        <PLAN_GROUP_ID>7</PLAN_GROUP_ID>
+        <ACTIVE_FROM>01-MAR-06</ACTIVE_FROM>
+        <ACTIVE_TO>18-AUG-11</ACTIVE_TO>
+        <COMPANY_ID/>
+      </ROW>
+      <ROW>
+        <PLAN_ID>459</PLAN_ID>
+        <PLAN_NAME>тв - план для клиента чп гильмиярова и.а.</PLAN_NAME>
+        <PLAN_GROUP_ID>13</PLAN_GROUP_ID>
+        <ACTIVE_FROM>01-JAN-05</ACTIVE_FROM>
+        <ACTIVE_TO>18-AUG-05</ACTIVE_TO>
+        <COMPANY_ID/>
+      </ROW>
+      <ROW>
+        <PLAN_ID>460</PLAN_ID>
+        <PLAN_NAME>тв - план для клиента ип бурдина н.в.</PLAN_NAME>
+        <PLAN_GROUP_ID>13</PLAN_GROUP_ID>
+        <ACTIVE_FROM>01-JAN-05</ACTIVE_FROM>
+        <ACTIVE_TO>18-AUG-05</ACTIVE_TO>
+        <COMPANY_ID/>
+      </ROW>
+      <ROW>
+        <PLAN_ID>461</PLAN_ID>
+        <PLAN_NAME>тв - план для клиента проспект</PLAN_NAME>
+        <PLAN_GROUP_ID>13</PLAN_GROUP_ID>
+        <ACTIVE_FROM>01-JAN-05</ACTIVE_FROM>
+        <ACTIVE_TO>18-AUG-05</ACTIVE_TO>
+        <COMPANY_ID/>
+      </ROW>
+    </ROWSET>
+  </result>
+  <messages>
+    <code/>
+    <text/>
+  </messages>
+</data>

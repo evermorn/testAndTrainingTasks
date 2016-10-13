@@ -1,3 +1,1 @@
-# testAndTrainingTasks
-coding practice
-testing commit
+это корневая папка фреймворка yii2
